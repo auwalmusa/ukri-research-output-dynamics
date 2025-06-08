@@ -1,6 +1,6 @@
 # 🏛️ UKRI Funding Insights Dashboard
 <p align="center">
-  <img src="./3dd52fb6-fdc5-4b69-a873-84b5a8a22756.png" />
+  <img src="https://github.com/auwalmusa/ukri-research-output-dynamics/blob/735d1ee0d6118bec2df87adb6b5e58b24925cc11/resource/ukri_funding.png" />
 </p>
 
 ---
