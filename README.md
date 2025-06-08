@@ -7,7 +7,7 @@
 
 ## 📚 Project Background
 
-The UKRI (UK Research and Innovation) dataset captures research funding data across different councils in the UK between 2015 and 2019. This dashboard provides an interactive visualization of funding applications, awards, success rates, and institutional collaborations — helping research leaders make strategic, data-driven decisions.
+The UKRI (UK Research and Innovation) dataset captures research funding data across different councils in the UK between 2015 and 2019. This dashboard provides an interactive visualisation of funding applications, awards, success rates, and institutional collaborations, helping research leaders make strategic, data-driven decisions.
 
 ---
 
@@ -16,8 +16,8 @@ The UKRI (UK Research and Innovation) dataset captures research funding data acr
 To deliver a strategic dashboard that enables:
 - 💷 **Funding Trends Analysis** — How has funding evolved over time?
 - 🧠 **Council Performance Insights** — Which councils have the highest success rates?
-- 🏛️ **Institutional Collaboration Tracking** — Which organizations collaborate the most on funded projects?
-- 📊 **Application and Award Statistics** — Total applied vs awarded funding amounts, application volumes, award counts.
+- 🏛️ **Institutional Collaboration Tracking** — Which organisations collaborate the most on funded projects?
+- 📊 **Application and Award Statistics** — Total applied vs awarded funding amounts, application volumes, and award counts.
 
 The goal is to support universities and policymakers with actionable intelligence for research funding strategies.
 
@@ -55,8 +55,8 @@ Interactive slicers allow dynamic filtering by Council and Year.
 ## 🔑 Key Insights
 
 - Research England leads all councils with the highest award success rate (75%).
-- Total awarded funding steadily increased from £2bn in 2015 to over £3bn in 2018.
-- University College London (UCL) is the most active collaborator based on collaboration count.
+- Total awarded funding steadily increased from £2 billion in 2015 to over £3 billion in 2018.
+- University College London (UCL) is the most active collaborator, based on the number of collaborations.
 - Notable disparities in success rates across councils highlight opportunities for strategic focus.
 
 ---
@@ -75,12 +75,12 @@ Interactive slicers allow dynamic filtering by Council and Year.
 - Download the `.pbix` file.
 - Open using **Power BI Desktop**.
 - Connect to the PostgreSQL database if needed.
-- Interact with slicers to explore funding patterns dynamically.
+- Interact with slicers to dynamically explore funding patterns.
 
 ---
 
 🎯 **Outcome:**  
-A dynamic dashboard enabling research leaders and universities to optimize funding strategies and collaborative research initiatives.
+A dynamic dashboard enabling research leaders and universities to optimise funding strategies and collaborative research initiatives.
 
 ---
 
